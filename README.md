@@ -53,6 +53,8 @@ npm i
     
     npm run dev
 
+    reference : https://tailwindcss.com/docs/guides/vite
+
 Create Pages:
     cd /src
     create files:
@@ -65,4 +67,7 @@ Create Pages:
 
     install packages:
         npm i react-router-dom
-        
+
+Create Components:
+    References : flowbite react
+        npm i flowbite-react
